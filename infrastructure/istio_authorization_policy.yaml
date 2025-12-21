@@ -16,4 +16,5 @@ spec:
         - cluster.local/ns/projectA/sa/serviceA
         - cluster.local/ns/projectA/sa/serviceA
         - cluster.local/ns/projectA/sa/service3
+        - cluster.local/ns/projectA/sa/service3
         
